@@ -1,4 +1,4 @@
-# GNN-Learning Tutorial
+# GNN-Learning Tutorials
 
 1. Tutorial by [UvA](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html)
 
