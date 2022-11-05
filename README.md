@@ -1,6 +1,9 @@
-# GNN-Learning
+# GNN-Learning Tutorial
 
 1. Tutorial by [UvA](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html)
+
+# Useful Skills
+
 
 ## Update Pytorch with pip
 ```
